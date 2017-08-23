@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grup>
+  <kelimeler kelime="BİLGİSAYAR" yasak1="FARE" yasak2="EKRAN" yasak3="KASA" yasak4="KLAVYE" yasak5="İŞLEMCİ" />
+  <kelimeler kelime="deneme" yasak1="yaask" yasak2="yasak" yasak3="yasak" yasak4="yasak" yasak5="yasak" />
+</grup>

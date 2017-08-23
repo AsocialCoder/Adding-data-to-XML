@@ -1,0 +1,9 @@
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\bin\Debug\tabukelimeprogram.exe.config
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\bin\Debug\tabukelimeprogram.exe
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\bin\Debug\tabukelimeprogram.pdb
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\obj\Debug\tabukelimeprogram.csprojResolveAssemblyReference.cache
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\obj\Debug\tabukelimeprogram.Form1.resources
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\obj\Debug\tabukelimeprogram.Properties.Resources.resources
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\obj\Debug\tabukelimeprogram.csproj.GenerateResource.Cache
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\obj\Debug\tabukelimeprogram.exe
+D:\SoftwareProject\C#\tabukelimeprogram\tabukelimeprogram\obj\Debug\tabukelimeprogram.pdb
